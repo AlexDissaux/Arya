@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Arya.iml" filepath="$PROJECT_DIR$/.idea/modules/Arya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Arya_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Arya_main.iml" group="Arya" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Arya_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Arya_test.iml" group="Arya" />
+    </modules>
+  </component>
+</project>
