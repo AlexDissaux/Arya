@@ -1,2 +1,4 @@
 # Arya
-Welcome to the project, please contact Dissaux Alexandre [dissauxalex@gmail.com] for more information
+Welcome to Arya project
+
+It is a project that uses Sphinx speech recognition coding in Java
